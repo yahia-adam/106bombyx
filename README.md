@@ -6,6 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/91891487/182250286-f3fcd5cf-16a2-4f88-bb02-3b504ba42130.png)
 
+<h2> Instalation </h2>
+
+      git clone git@github.com:Yahia-Abdchafee-ADAM/106bombyx.git
+      
 <h2> Usage </h2>
 
 ![image](https://user-images.githubusercontent.com/91891487/182250381-ec7fb0c9-42fe-4d89-a2cb-6f1ef643ad99.png)
