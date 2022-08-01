@@ -1,4 +1,4 @@
-<h1 aling="center"> 106bombyx</h1>
+<h1 align="center"> 106bombyx</h1>
 
 ![image](https://user-images.githubusercontent.com/91891487/182249430-01f86eef-b74a-411f-b76c-5f6ca358f572.png)
 
